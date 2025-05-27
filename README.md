@@ -32,7 +32,7 @@ cd Password-Generator
 HTML
 CSS
 JavaScript
-
+---
 👤 Author
 Rahul Yadav
 🔗 GitHub Profile
